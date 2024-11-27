@@ -1,0 +1,14 @@
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\bin\Debug\net8.0\Task Day 4 (Liberary Mannagment System).exe
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\bin\Debug\net8.0\Task Day 4 (Liberary Mannagment System).deps.json
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\bin\Debug\net8.0\Task Day 4 (Liberary Mannagment System).runtimeconfig.json
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\bin\Debug\net8.0\Task Day 4 (Liberary Mannagment System).dll
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\bin\Debug\net8.0\Task Day 4 (Liberary Mannagment System).pdb
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\Task Day 4 (Liberary Mannagment System).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\Task Day 4 (Liberary Mannagment System).AssemblyInfoInputs.cache
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\Task Day 4 (Liberary Mannagment System).AssemblyInfo.cs
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\Task Day 4 (Liberary Mannagment System).csproj.CoreCompileInputs.cache
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\Task Day 4 (Liberary Mannagment System).dll
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\refint\Task Day 4 (Liberary Mannagment System).dll
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\Task Day 4 (Liberary Mannagment System).pdb
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\Task Day 4 (Liberary Mannagment System).genruntimeconfig.cache
+C:\Users\Alhefnawy\source\Era Soft Course\Day 05\Challenge 1\Task Day 4 (Liberary Mannagment System)\obj\Debug\net8.0\ref\Task Day 4 (Liberary Mannagment System).dll

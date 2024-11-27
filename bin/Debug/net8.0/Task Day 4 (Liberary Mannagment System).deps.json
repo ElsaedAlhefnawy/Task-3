@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Task Day 4 (Liberary Mannagment System)/1.0.0": {
+        "runtime": {
+          "Task Day 4 (Liberary Mannagment System).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task Day 4 (Liberary Mannagment System)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
